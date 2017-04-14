@@ -1,0 +1,2 @@
+# wordSegment
+chinese word segment
